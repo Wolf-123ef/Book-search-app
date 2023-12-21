@@ -1,0 +1,33 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:gray;
+}
+.container{
+  max-width: 800px;
+  margin:0 auto;
+  text-align: center;
+}
+.main{
+  float: left;
+  height: 300px;
+}
+h4{
+  height: 40px;
+  width: 200px;
+}
+input{
+  margin-top: 5px;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+button{
+  height: 36px;
+  font-size: 20px;
+  border: 2px solid black;
+  position: absolute;
+  top: 5px;
+}
